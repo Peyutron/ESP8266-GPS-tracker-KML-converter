@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="WEMOS D1 Mini GPS" 
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Ruta WEMOS GPS</name>
+    <desc>Datos GPS capturados con WEMOS D1 Mini</desc>
+    <time>2025-10-24T09:37:23Z</time>
+  </metadata>
+  <trk>
+    <name>Ruta WEMOS GPS</name>
+    <desc>Track con 69 puntos GPS</desc>
+    <trkseg>
+      <trkpt lat="36.714156" lon="-4.583816">
+        <ele>30.6</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.019</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>41.2</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.714364" lon="-4.584071">
+        <ele>32.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>46.374</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>298.6</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.714964" lon="-4.585427">
+        <ele>29.1</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>53.078</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>304.5</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.715803" lon="-4.586810">
+        <ele>28.3</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>58.968</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>307.5</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.716593" lon="-4.588102">
+        <ele>27.6</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>52.097</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>306.7</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.717404" lon="-4.589208">
+        <ele>27.0</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>38.966</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>326.8</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.718096" lon="-4.589477">
+        <ele>28.8</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>30.206</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>315.8</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.719009" lon="-4.590406">
+        <ele>29.2</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>55.597</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>316.7</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.719485" lon="-4.591883">
+        <ele>32.6</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>33.188</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>295.0</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.719980" lon="-4.592366">
+        <ele>31.0</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>15.057</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>3.9</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720227" lon="-4.592184">
+        <ele>33.0</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>7.056</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>28.8</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720252" lon="-4.592168">
+        <ele>36.5</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.241</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720271" lon="-4.592184">
+        <ele>37.8</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.259</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720279" lon="-4.592191">
+        <ele>37.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.056</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720279" lon="-4.592198">
+        <ele>39.0</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.222</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720281" lon="-4.592200">
+        <ele>39.0</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.222</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720287" lon="-4.592212">
+        <ele>39.3</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.111</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720289" lon="-4.592229">
+        <ele>41.1</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.019</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720289" lon="-4.592237">
+        <ele>42.6</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.056</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720289" lon="-4.592245">
+        <ele>44.0</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.167</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720292" lon="-4.592255">
+        <ele>45.2</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.111</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720292" lon="-4.592261">
+        <ele>45.6</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.019</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720299" lon="-4.592256">
+        <ele>43.3</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.463</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720301" lon="-4.592261">
+        <ele>42.1</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.093</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720300" lon="-4.592268">
+        <ele>40.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.074</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720295" lon="-4.592268">
+        <ele>40.8</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.426</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720291" lon="-4.592262">
+        <ele>41.2</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.167</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720287" lon="-4.592264">
+        <ele>41.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.019</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720288" lon="-4.592267">
+        <ele>41.5</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.037</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720283" lon="-4.592284">
+        <ele>44.1</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.204</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720276" lon="-4.592303">
+        <ele>46.9</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.148</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720268" lon="-4.592320">
+        <ele>49.5</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.037</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720263" lon="-4.592334">
+        <ele>51.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.111</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720259" lon="-4.592343">
+        <ele>52.3</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.037</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720260" lon="-4.592341">
+        <ele>51.9</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.037</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720266" lon="-4.592344">
+        <ele>50.8</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.056</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720280" lon="-4.592335">
+        <ele>47.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.074</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720285" lon="-4.592332">
+        <ele>47.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.093</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720287" lon="-4.592325">
+        <ele>47.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.056</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720292" lon="-4.592318">
+        <ele>47.8</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.093</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720299" lon="-4.592306">
+        <ele>47.1</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.037</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720300" lon="-4.592299">
+        <ele>46.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.111</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720301" lon="-4.592295">
+        <ele>45.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.074</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720300" lon="-4.592300">
+        <ele>46.4</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.074</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720295" lon="-4.592313">
+        <ele>48.5</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.167</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720293" lon="-4.592314">
+        <ele>49.0</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.130</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720295" lon="-4.592306">
+        <ele>48.1</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.315</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720288" lon="-4.592322">
+        <ele>51.2</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.185</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720284" lon="-4.592336">
+        <ele>53.2</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.056</speed>
+        <extensions>
+          <satellites>11</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720286" lon="-4.592333">
+        <ele>52.2</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.241</speed>
+        <extensions>
+          <satellites>9</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720290" lon="-4.592309">
+        <ele>47.5</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.630</speed>
+        <extensions>
+          <satellites>9</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720291" lon="-4.592293">
+        <ele>42.4</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.426</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>54.4</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720282" lon="-4.592276">
+        <ele>33.3</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>7.427</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>297.2</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720362" lon="-4.592280">
+        <ele>29.2</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.019</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>323.6</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720360" lon="-4.592259">
+        <ele>28.9</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.111</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>323.6</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720352" lon="-4.592254">
+        <ele>28.4</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.019</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>323.6</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720352" lon="-4.592252">
+        <ele>26.8</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.241</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>323.6</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720358" lon="-4.592256">
+        <ele>26.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.056</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>323.6</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.720347" lon="-4.592334">
+        <ele>27.3</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>12.019</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>246.2</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.719933" lon="-4.592402">
+        <ele>28.3</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>19.798</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>174.5</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.719785" lon="-4.592421">
+        <ele>29.8</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>0.000</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>192.5</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.719388" lon="-4.592305">
+        <ele>29.8</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>29.651</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>89.1</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.719114" lon="-4.590648">
+        <ele>26.2</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>53.875</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>119.0</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.718193" lon="-4.589824">
+        <ele>23.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>22.576</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>164.6</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.717630" lon="-4.589491">
+        <ele>23.5</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>39.651</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>131.9</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.716651" lon="-4.588263">
+        <ele>21.8</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>73.413</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>127.8</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.715377" lon="-4.586180">
+        <ele>22.4</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>90.822</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>127.5</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.714476" lon="-4.584428">
+        <ele>25.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>49.115</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>117.0</course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="36.714105" lon="-4.583926">
+        <ele>26.7</ele>
+        <time>2025-10-24T09:37:23Z</time>
+        <speed>31.077</speed>
+        <extensions>
+          <satellites>10</satellites>
+          <course>222.3</course>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruta WEMOS GPS</name>
+    <description>Datos GPS capturados con WEMOS D1 Mini - 69 puntos</description>
+    <open>1</open>
+    <Style id="routeStyle">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>Ruta WEMOS GPS</name>
+      <description>Ruta completa con 69 puntos GPS</description>
+      <styleUrl>#routeStyle</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -4.583816,36.714156,30.6
+          -4.584071,36.714364,32.7
+          -4.585427,36.714964,29.1
+          -4.586810,36.715803,28.3
+          -4.588102,36.716593,27.6
+          -4.589208,36.717404,27.0
+          -4.589477,36.718096,28.8
+          -4.590406,36.719009,29.2
+          -4.591883,36.719485,32.6
+          -4.592366,36.719980,31.0
+          -4.592184,36.720227,33.0
+          -4.592168,36.720252,36.5
+          -4.592184,36.720271,37.8
+          -4.592191,36.720279,37.7
+          -4.592198,36.720279,39.0
+          -4.592200,36.720281,39.0
+          -4.592212,36.720287,39.3
+          -4.592229,36.720289,41.1
+          -4.592237,36.720289,42.6
+          -4.592245,36.720289,44.0
+          -4.592255,36.720292,45.2
+          -4.592261,36.720292,45.6
+          -4.592256,36.720299,43.3
+          -4.592261,36.720301,42.1
+          -4.592268,36.720300,40.7
+          -4.592268,36.720295,40.8
+          -4.592262,36.720291,41.2
+          -4.592264,36.720287,41.7
+          -4.592267,36.720288,41.5
+          -4.592284,36.720283,44.1
+          -4.592303,36.720276,46.9
+          -4.592320,36.720268,49.5
+          -4.592334,36.720263,51.7
+          -4.592343,36.720259,52.3
+          -4.592341,36.720260,51.9
+          -4.592344,36.720266,50.8
+          -4.592335,36.720280,47.7
+          -4.592332,36.720285,47.7
+          -4.592325,36.720287,47.7
+          -4.592318,36.720292,47.8
+          -4.592306,36.720299,47.1
+          -4.592299,36.720300,46.7
+          -4.592295,36.720301,45.7
+          -4.592300,36.720300,46.4
+          -4.592313,36.720295,48.5
+          -4.592314,36.720293,49.0
+          -4.592306,36.720295,48.1
+          -4.592322,36.720288,51.2
+          -4.592336,36.720284,53.2
+          -4.592333,36.720286,52.2
+          -4.592309,36.720290,47.5
+          -4.592293,36.720291,42.4
+          -4.592276,36.720282,33.3
+          -4.592280,36.720362,29.2
+          -4.592259,36.720360,28.9
+          -4.592254,36.720352,28.4
+          -4.592252,36.720352,26.8
+          -4.592256,36.720358,26.7
+          -4.592334,36.720347,27.3
+          -4.592402,36.719933,28.3
+          -4.592421,36.719785,29.8
+          -4.592305,36.719388,29.8
+          -4.590648,36.719114,26.2
+          -4.589824,36.718193,23.7
+          -4.589491,36.717630,23.5
+          -4.588263,36.716651,21.8
+          -4.586180,36.715377,22.4
+          -4.584428,36.714476,25.7
+          -4.583926,36.714105,26.7
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Folder>
+      <name>Puntos GPS</name>
+      <open>0</open>
+      <Placemark>
+        <name>Punto 1</name>
+        <description><![CDATA[
+<h3>Punto GPS #1</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.714156, -4.583816</td></tr>
+<tr><td><b>Altitud:</b></td><td>30.6 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.02 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>41.2°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.583816,36.714156,30.6</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 2</name>
+        <description><![CDATA[
+<h3>Punto GPS #2</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.714364, -4.584071</td></tr>
+<tr><td><b>Altitud:</b></td><td>32.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>46.37 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>298.6°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.584071,36.714364,32.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 3</name>
+        <description><![CDATA[
+<h3>Punto GPS #3</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.714964, -4.585427</td></tr>
+<tr><td><b>Altitud:</b></td><td>29.1 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>53.08 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>304.5°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.585427,36.714964,29.1</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 4</name>
+        <description><![CDATA[
+<h3>Punto GPS #4</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.715803, -4.586810</td></tr>
+<tr><td><b>Altitud:</b></td><td>28.3 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>58.97 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>307.5°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.586810,36.715803,28.3</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 5</name>
+        <description><![CDATA[
+<h3>Punto GPS #5</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.716593, -4.588102</td></tr>
+<tr><td><b>Altitud:</b></td><td>27.6 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>52.10 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>306.7°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.588102,36.716593,27.6</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 6</name>
+        <description><![CDATA[
+<h3>Punto GPS #6</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.717404, -4.589208</td></tr>
+<tr><td><b>Altitud:</b></td><td>27.0 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>38.97 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>326.8°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.589208,36.717404,27.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 7</name>
+        <description><![CDATA[
+<h3>Punto GPS #7</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.718096, -4.589477</td></tr>
+<tr><td><b>Altitud:</b></td><td>28.8 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>30.21 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>315.8°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.589477,36.718096,28.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 8</name>
+        <description><![CDATA[
+<h3>Punto GPS #8</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.719009, -4.590406</td></tr>
+<tr><td><b>Altitud:</b></td><td>29.2 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>55.60 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>316.7°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.590406,36.719009,29.2</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 9</name>
+        <description><![CDATA[
+<h3>Punto GPS #9</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.719485, -4.591883</td></tr>
+<tr><td><b>Altitud:</b></td><td>32.6 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>33.19 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>295.0°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.591883,36.719485,32.6</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 10</name>
+        <description><![CDATA[
+<h3>Punto GPS #10</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.719980, -4.592366</td></tr>
+<tr><td><b>Altitud:</b></td><td>31.0 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>15.06 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>3.9°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592366,36.719980,31.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 11</name>
+        <description><![CDATA[
+<h3>Punto GPS #11</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720227, -4.592184</td></tr>
+<tr><td><b>Altitud:</b></td><td>33.0 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>7.06 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>28.8°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592184,36.720227,33.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 12</name>
+        <description><![CDATA[
+<h3>Punto GPS #12</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720252, -4.592168</td></tr>
+<tr><td><b>Altitud:</b></td><td>36.5 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.24 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592168,36.720252,36.5</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 13</name>
+        <description><![CDATA[
+<h3>Punto GPS #13</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720271, -4.592184</td></tr>
+<tr><td><b>Altitud:</b></td><td>37.8 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.26 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592184,36.720271,37.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 14</name>
+        <description><![CDATA[
+<h3>Punto GPS #14</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720279, -4.592191</td></tr>
+<tr><td><b>Altitud:</b></td><td>37.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.06 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592191,36.720279,37.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 15</name>
+        <description><![CDATA[
+<h3>Punto GPS #15</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720279, -4.592198</td></tr>
+<tr><td><b>Altitud:</b></td><td>39.0 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.22 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592198,36.720279,39.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 16</name>
+        <description><![CDATA[
+<h3>Punto GPS #16</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720281, -4.592200</td></tr>
+<tr><td><b>Altitud:</b></td><td>39.0 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.22 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592200,36.720281,39.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 17</name>
+        <description><![CDATA[
+<h3>Punto GPS #17</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720287, -4.592212</td></tr>
+<tr><td><b>Altitud:</b></td><td>39.3 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.11 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592212,36.720287,39.3</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 18</name>
+        <description><![CDATA[
+<h3>Punto GPS #18</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720289, -4.592229</td></tr>
+<tr><td><b>Altitud:</b></td><td>41.1 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.02 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592229,36.720289,41.1</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 19</name>
+        <description><![CDATA[
+<h3>Punto GPS #19</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720289, -4.592237</td></tr>
+<tr><td><b>Altitud:</b></td><td>42.6 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.06 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592237,36.720289,42.6</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 20</name>
+        <description><![CDATA[
+<h3>Punto GPS #20</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720289, -4.592245</td></tr>
+<tr><td><b>Altitud:</b></td><td>44.0 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.17 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592245,36.720289,44.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 21</name>
+        <description><![CDATA[
+<h3>Punto GPS #21</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720292, -4.592255</td></tr>
+<tr><td><b>Altitud:</b></td><td>45.2 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.11 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592255,36.720292,45.2</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 22</name>
+        <description><![CDATA[
+<h3>Punto GPS #22</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720292, -4.592261</td></tr>
+<tr><td><b>Altitud:</b></td><td>45.6 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.02 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592261,36.720292,45.6</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 23</name>
+        <description><![CDATA[
+<h3>Punto GPS #23</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720299, -4.592256</td></tr>
+<tr><td><b>Altitud:</b></td><td>43.3 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.46 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592256,36.720299,43.3</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 24</name>
+        <description><![CDATA[
+<h3>Punto GPS #24</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720301, -4.592261</td></tr>
+<tr><td><b>Altitud:</b></td><td>42.1 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.09 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592261,36.720301,42.1</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 25</name>
+        <description><![CDATA[
+<h3>Punto GPS #25</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720300, -4.592268</td></tr>
+<tr><td><b>Altitud:</b></td><td>40.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.07 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592268,36.720300,40.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 26</name>
+        <description><![CDATA[
+<h3>Punto GPS #26</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720295, -4.592268</td></tr>
+<tr><td><b>Altitud:</b></td><td>40.8 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.43 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592268,36.720295,40.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 27</name>
+        <description><![CDATA[
+<h3>Punto GPS #27</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720291, -4.592262</td></tr>
+<tr><td><b>Altitud:</b></td><td>41.2 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.17 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592262,36.720291,41.2</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 28</name>
+        <description><![CDATA[
+<h3>Punto GPS #28</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720287, -4.592264</td></tr>
+<tr><td><b>Altitud:</b></td><td>41.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.02 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592264,36.720287,41.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 29</name>
+        <description><![CDATA[
+<h3>Punto GPS #29</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720288, -4.592267</td></tr>
+<tr><td><b>Altitud:</b></td><td>41.5 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.04 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592267,36.720288,41.5</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 30</name>
+        <description><![CDATA[
+<h3>Punto GPS #30</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720283, -4.592284</td></tr>
+<tr><td><b>Altitud:</b></td><td>44.1 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.20 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592284,36.720283,44.1</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 31</name>
+        <description><![CDATA[
+<h3>Punto GPS #31</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720276, -4.592303</td></tr>
+<tr><td><b>Altitud:</b></td><td>46.9 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.15 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592303,36.720276,46.9</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 32</name>
+        <description><![CDATA[
+<h3>Punto GPS #32</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720268, -4.592320</td></tr>
+<tr><td><b>Altitud:</b></td><td>49.5 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.04 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592320,36.720268,49.5</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 33</name>
+        <description><![CDATA[
+<h3>Punto GPS #33</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720263, -4.592334</td></tr>
+<tr><td><b>Altitud:</b></td><td>51.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.11 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592334,36.720263,51.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 34</name>
+        <description><![CDATA[
+<h3>Punto GPS #34</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720259, -4.592343</td></tr>
+<tr><td><b>Altitud:</b></td><td>52.3 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.04 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592343,36.720259,52.3</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 35</name>
+        <description><![CDATA[
+<h3>Punto GPS #35</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720260, -4.592341</td></tr>
+<tr><td><b>Altitud:</b></td><td>51.9 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.04 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592341,36.720260,51.9</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 36</name>
+        <description><![CDATA[
+<h3>Punto GPS #36</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720266, -4.592344</td></tr>
+<tr><td><b>Altitud:</b></td><td>50.8 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.06 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592344,36.720266,50.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 37</name>
+        <description><![CDATA[
+<h3>Punto GPS #37</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720280, -4.592335</td></tr>
+<tr><td><b>Altitud:</b></td><td>47.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.07 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592335,36.720280,47.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 38</name>
+        <description><![CDATA[
+<h3>Punto GPS #38</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720285, -4.592332</td></tr>
+<tr><td><b>Altitud:</b></td><td>47.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.09 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592332,36.720285,47.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 39</name>
+        <description><![CDATA[
+<h3>Punto GPS #39</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720287, -4.592325</td></tr>
+<tr><td><b>Altitud:</b></td><td>47.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.06 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592325,36.720287,47.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 40</name>
+        <description><![CDATA[
+<h3>Punto GPS #40</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720292, -4.592318</td></tr>
+<tr><td><b>Altitud:</b></td><td>47.8 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.09 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592318,36.720292,47.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 41</name>
+        <description><![CDATA[
+<h3>Punto GPS #41</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720299, -4.592306</td></tr>
+<tr><td><b>Altitud:</b></td><td>47.1 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.04 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592306,36.720299,47.1</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 42</name>
+        <description><![CDATA[
+<h3>Punto GPS #42</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720300, -4.592299</td></tr>
+<tr><td><b>Altitud:</b></td><td>46.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.11 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592299,36.720300,46.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 43</name>
+        <description><![CDATA[
+<h3>Punto GPS #43</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720301, -4.592295</td></tr>
+<tr><td><b>Altitud:</b></td><td>45.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.07 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592295,36.720301,45.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 44</name>
+        <description><![CDATA[
+<h3>Punto GPS #44</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720300, -4.592300</td></tr>
+<tr><td><b>Altitud:</b></td><td>46.4 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.07 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592300,36.720300,46.4</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 45</name>
+        <description><![CDATA[
+<h3>Punto GPS #45</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720295, -4.592313</td></tr>
+<tr><td><b>Altitud:</b></td><td>48.5 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.17 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592313,36.720295,48.5</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 46</name>
+        <description><![CDATA[
+<h3>Punto GPS #46</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720293, -4.592314</td></tr>
+<tr><td><b>Altitud:</b></td><td>49.0 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.13 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592314,36.720293,49.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 47</name>
+        <description><![CDATA[
+<h3>Punto GPS #47</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720295, -4.592306</td></tr>
+<tr><td><b>Altitud:</b></td><td>48.1 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.31 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592306,36.720295,48.1</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 48</name>
+        <description><![CDATA[
+<h3>Punto GPS #48</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720288, -4.592322</td></tr>
+<tr><td><b>Altitud:</b></td><td>51.2 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.19 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592322,36.720288,51.2</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 49</name>
+        <description><![CDATA[
+<h3>Punto GPS #49</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720284, -4.592336</td></tr>
+<tr><td><b>Altitud:</b></td><td>53.2 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.06 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>11</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592336,36.720284,53.2</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 50</name>
+        <description><![CDATA[
+<h3>Punto GPS #50</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720286, -4.592333</td></tr>
+<tr><td><b>Altitud:</b></td><td>52.2 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.24 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>9</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592333,36.720286,52.2</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 51</name>
+        <description><![CDATA[
+<h3>Punto GPS #51</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720290, -4.592309</td></tr>
+<tr><td><b>Altitud:</b></td><td>47.5 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.63 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>9</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592309,36.720290,47.5</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 52</name>
+        <description><![CDATA[
+<h3>Punto GPS #52</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720291, -4.592293</td></tr>
+<tr><td><b>Altitud:</b></td><td>42.4 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.43 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>54.4°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592293,36.720291,42.4</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 53</name>
+        <description><![CDATA[
+<h3>Punto GPS #53</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720282, -4.592276</td></tr>
+<tr><td><b>Altitud:</b></td><td>33.3 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>7.43 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>297.2°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592276,36.720282,33.3</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 54</name>
+        <description><![CDATA[
+<h3>Punto GPS #54</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720362, -4.592280</td></tr>
+<tr><td><b>Altitud:</b></td><td>29.2 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.02 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>323.6°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592280,36.720362,29.2</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 55</name>
+        <description><![CDATA[
+<h3>Punto GPS #55</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720360, -4.592259</td></tr>
+<tr><td><b>Altitud:</b></td><td>28.9 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.11 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>323.6°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592259,36.720360,28.9</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 56</name>
+        <description><![CDATA[
+<h3>Punto GPS #56</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720352, -4.592254</td></tr>
+<tr><td><b>Altitud:</b></td><td>28.4 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.02 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>323.6°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592254,36.720352,28.4</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 57</name>
+        <description><![CDATA[
+<h3>Punto GPS #57</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720352, -4.592252</td></tr>
+<tr><td><b>Altitud:</b></td><td>26.8 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.24 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>323.6°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592252,36.720352,26.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 58</name>
+        <description><![CDATA[
+<h3>Punto GPS #58</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720358, -4.592256</td></tr>
+<tr><td><b>Altitud:</b></td><td>26.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.06 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>323.6°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592256,36.720358,26.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 59</name>
+        <description><![CDATA[
+<h3>Punto GPS #59</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.720347, -4.592334</td></tr>
+<tr><td><b>Altitud:</b></td><td>27.3 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>12.02 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>246.2°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592334,36.720347,27.3</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 60</name>
+        <description><![CDATA[
+<h3>Punto GPS #60</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.719933, -4.592402</td></tr>
+<tr><td><b>Altitud:</b></td><td>28.3 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>19.80 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>174.5°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592402,36.719933,28.3</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 61</name>
+        <description><![CDATA[
+<h3>Punto GPS #61</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.719785, -4.592421</td></tr>
+<tr><td><b>Altitud:</b></td><td>29.8 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>0.00 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>192.5°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592421,36.719785,29.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 62</name>
+        <description><![CDATA[
+<h3>Punto GPS #62</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.719388, -4.592305</td></tr>
+<tr><td><b>Altitud:</b></td><td>29.8 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>29.65 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>89.1°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.592305,36.719388,29.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 63</name>
+        <description><![CDATA[
+<h3>Punto GPS #63</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.719114, -4.590648</td></tr>
+<tr><td><b>Altitud:</b></td><td>26.2 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>53.87 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>119.0°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.590648,36.719114,26.2</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 64</name>
+        <description><![CDATA[
+<h3>Punto GPS #64</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.718193, -4.589824</td></tr>
+<tr><td><b>Altitud:</b></td><td>23.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>22.58 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>164.6°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.589824,36.718193,23.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 65</name>
+        <description><![CDATA[
+<h3>Punto GPS #65</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.717630, -4.589491</td></tr>
+<tr><td><b>Altitud:</b></td><td>23.5 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>39.65 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>131.9°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.589491,36.717630,23.5</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 66</name>
+        <description><![CDATA[
+<h3>Punto GPS #66</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.716651, -4.588263</td></tr>
+<tr><td><b>Altitud:</b></td><td>21.8 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>73.41 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>127.8°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.588263,36.716651,21.8</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 67</name>
+        <description><![CDATA[
+<h3>Punto GPS #67</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.715377, -4.586180</td></tr>
+<tr><td><b>Altitud:</b></td><td>22.4 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>90.82 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>127.5°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.586180,36.715377,22.4</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 68</name>
+        <description><![CDATA[
+<h3>Punto GPS #68</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.714476, -4.584428</td></tr>
+<tr><td><b>Altitud:</b></td><td>25.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>49.12 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>117.0°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.584428,36.714476,25.7</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto 69</name>
+        <description><![CDATA[
+<h3>Punto GPS #69</h3>
+<table>
+<tr><td><b>Coordenadas:</b></td><td>36.714105, -4.583926</td></tr>
+<tr><td><b>Altitud:</b></td><td>26.7 m</td></tr>
+<tr><td><b>Velocidad:</b></td><td>31.08 km/h</td></tr>
+<tr><td><b>Satélites:</b></td><td>10</td></tr>
+<tr><td><b>Rumbo:</b></td><td>222.3°</td></tr>
+</table>
+]]></description>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-4.583926,36.714105,26.7</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
