@@ -1,6 +1,6 @@
 /**
   * Version: ESP8266 con módulo GY-NEO6MV2 y LittleFS register
-  * Project instructions: https://www.infotronikblog.com/2025/10/macro-keyboard-esp32-con-tft-ili9488.html
+  * Project instructions: https://www.infotronikblog.com/2025/10/esp8266-y-gps-gy-neo6mv2-y-littlefs.html
   * Project repository:   https://github.com/Peyutron/ESP8266-GPS-tracker-KML-converter
   * web: https://www.infotronikblog.com
   * Creator: Carlos MC
@@ -72,7 +72,7 @@ void setup()
   // 3. Endpoints configuration
   server.on("/gps", HTTP_GET, handleGPSData);       // GET /gps → Datos actuales
   server.on("/download", HTTP_GET, handleDownload); // GET /download → JSON File
-  server.on("/clear", HTTP_DELETE, handleClear);    // DELETE /clear → Delete datas
+  server.on("/clear", HTTP_GET, handleClear);    // DELETE /clear → Delete datas
   server.on("/files", HTTP_GET, handleFileList);    // Show file list
   server.on("/info", HTTP_GET, handleFSInfo);       // File system information
 
